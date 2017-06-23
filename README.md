@@ -50,4 +50,4 @@ Vous disposez maintenant de deux fichiers, la clé publique "key_RSA" et la clé
 
 Votre clé privé vous sera necessaire pour vous connecter en SSH gardez la précieusement, encore plus si vous n'avez pas de passphrase car n'importe qui pourra se connecter à votre machine si il possède cette clé.
 
-La clé publique est l'empreinte de la clé privé, c'est elle que l'on va utiliser dans le config-cloud.xml [I'm an inline-style link][1]
+La clé publique est l'empreinte de la clé privé, c'est elle que l'on va utiliser dans le [config-cloud.xml](../master/cloud-config.yaml) 
