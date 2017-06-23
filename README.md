@@ -3,9 +3,7 @@ Configuration for my RancherOS NAS
 
 L'installation sur un disque se fait avec la commande ros install.
 
-Pour rajouter des parmètres et les clés de connexion SSH on peut passer en paramètre le fichier cloud-config.yaml.
-
-**ros install -c cloudconfig.yaml ** 
+Pour rajouter les clés de connexion SSH il faut passer en paramètre le fichier cloud-config.yaml dans la commande *ros install -c cloudconfig.yaml ** 
 
 ## Genérer une clé SSH 
 
